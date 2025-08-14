@@ -1,9 +1,3 @@
-# Project_Template
-Serves as the template for new projects
+# OIC-153 IF quantification in HUVEC cells
 
-Python Environment:
-```
-Packages listed here
-```
-
-Describe content of subfolders, if applicable.
+environment can be recreated with [the yaml file](/CellPoseCLE.yaml)
